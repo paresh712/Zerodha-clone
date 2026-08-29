@@ -1,4 +1,15 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
-    
+}
+
+.stats-section{
+    background: #fff;
+}
+
+.stats-card{
+    transition: 0.3s;
+}
+
+.stats-card:hover{
+    transform: translateY(-5px);
 }
